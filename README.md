@@ -7,9 +7,9 @@ You can click the Preview link to take a look at your changes.
 # 💫 About Me:
 - 👋 Hi, I’m Fseha
 - 👀 I’m interested in new technologies 
-- 🌱 I’m currently learning AI
+- 🌱 I’m currently learning in Software engineering
 - 💞️ I’m looking to collaborate on AI based technologies 
-- 📫 How to reach me ...
+- 📫 How to reach me fsehahagos23@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: print("Hello world🥰")
 # 💻 Tech Stack:
